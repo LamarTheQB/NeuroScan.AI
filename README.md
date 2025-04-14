@@ -146,6 +146,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contributors
 
 - [Anshul Ganumpally](https://github.com/anshulg614)
+- [Sahil Raju Nilkanthache](https://github.com/lamartheqb)
 
 ## Important Note
 
